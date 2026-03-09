@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Ivan 👋
+
+Backend / Cloud Engineer  
+AWS • Serverless • Distributed systems
+
+## Projects
+- AWS-IAAS-Katas
+- TerraBuddy
+- Ask about the others!!
+
+## Links
+- Website: https://ivanobeso.dev
+- LinkedIn: https://linkedin.com/in/ivanobeso
